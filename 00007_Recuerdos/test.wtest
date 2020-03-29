@@ -1,0 +1,4 @@
+test "Cuando blancanieves crece, el espejo magico dice que ella es la mas bella del reino" {
+  espejoMagico.pasoElTiempo()
+  assert.equals(espejoMagico.quienEsLaMasBellaDelReino(),"Blancanieves")
+}

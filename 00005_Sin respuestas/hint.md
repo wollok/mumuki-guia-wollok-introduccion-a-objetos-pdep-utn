@@ -1,0 +1,1 @@
+Revisá que hayas escrito bien las mayúsculas y minúsculas. Poner cada inicial en mayúsculas (en este caso excepto la primera) es una convención práctica que hace que sea más fácil leer los nombres que no pueden contener espacios.
